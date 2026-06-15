@@ -1,0 +1,84 @@
+OffsideFence Concept — dual license
+
+This repository contains two kinds of artifacts, licensed differently:
+
+================================================================================
+1. DOCUMENTATION (CC BY-NC 4.0)
+================================================================================
+
+The following files are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0):
+
+  README.md
+  white-paper.md
+  docs/why-this-is-fiction.md
+  docs/ethics.md
+  docs/architecture.md
+  docs/mode-specs.md
+  docs/press-kit.md
+  spec/ofp-protocol.md
+  src/README.md
+  CHANGELOG.md
+  .github/ISSUE_TEMPLATE/*.md
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to
+    the license, and indicate if changes were made. You may do so in
+    any reasonable manner, but not in any way that suggests the
+    licensor endorses you or your use.
+  - NonCommercial — You may not use the material for commercial
+    purposes.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
+
+================================================================================
+2. SOURCE STUBS (All Rights Reserved)
+================================================================================
+
+The following files are reference function signatures only. They are
+NOT open source. They are NOT in the public domain. They are NOT
+available for reuse, modification, redistribution, or use as the basis
+of a derivative work, in any form, without explicit written permission
+from the author:
+
+  src/offside-decision/decision_stub.py
+  src/field-calibration/calib_stub.py
+  src/decision-packet/packet_stub.py
+  src/collar/feedback_stub.py
+
+The intent of this restriction is documented in `src/README.md`. The
+short version: the stubs are documentation artifacts, not source code
+meant to be built on. The function signatures are published so that
+readers can confirm they match the architecture and the protocol. The
+bodies are `raise NotImplementedError` by design.
+
+================================================================================
+3. NO TRADEMARK LICENSE
+================================================================================
+
+The mark "OffsideFence™" is used in this repository as a fictional
+product mark. No trademark registration has been filed. No license to
+use the mark is granted by this license file. Any use of the mark in a
+way that suggests a real product, a commercial venture, or an
+endorsement is not permitted.
+
+================================================================================
+4. NO PATENT LICENSE
+================================================================================
+
+No patent has been filed on any design described in this repository.
+No patent license is granted by this license file. If a real product
+in this space is ever built, it will be built by a different team, on
+a different design, under a different name. This repository is a
+comment on the design space, not a contribution to it.
+
+================================================================================
+5. CONTACT
+================================================================================
+
+For questions about this license, see the contact link in README.md.

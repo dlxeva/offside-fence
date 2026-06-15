@@ -1,0 +1,64 @@
+# OffsideFence concept demonstrator — gitignore
+#
+# This is a documentation project. There is no build artifact, no
+# dependency tree, no environment to isolate. The gitignore exists so
+# that the repository is not accidentally polluted by editor state
+# or OS metadata when a curious reader clones it.
+
+# --- OS metadata ---
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# --- Editor state ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# --- Python (in case anyone tries to run the stubs) ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# --- Node (in case anyone tries to build a docs site) ---
+node_modules/
+.npm
+.yarn/
+.pnp.*
+
+# --- Local-only notes ---
+# A file like this is fine to add, just don't commit it.
+TODO.local.md
+NOTES.local.md
+
+# --- The .omx session state from the author's vault ---
+# This lives in the Obsidian Vault copy of the project, not in the
+# public repo, but include it here in case someone copies the
+# directory wholesale.
+.omx/
+
+# --- Trailing whitespace and BOM ---
+# These are not committed; some editors strip them on save.
+# Listed here so a `git status` doesn't show noise.
+*~
+*.bak
