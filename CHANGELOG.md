@@ -38,8 +38,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Not added (and not planned)
 - No roadmap. No firmware updates. No issue tracker for product support. No partnerships. No fundraising. No Series A. No demo day. See [`docs/why-this-is-fiction.md`](docs/why-this-is-fiction.md) for the boundary.
 
+## [0.1.1] — Planned (not yet published)
+
+### Planned
+- Bilingual (zh-CN / en) versions of the three public-facing files: `README.md`, `docs/why-this-is-fiction.md`, `docs/press-kit.md`. Technical specifications (`docs/architecture.md`, `white-paper.md`, `spec/ofp-protocol.md`, source stubs) remain in English, as they are written in the register of the underlying references (Roboflow Sports, OFP/0.1 protocol, Python type hints).
+- Bilingual changelog entries starting from v0.1.1.
+
+### Not planned
+- No additional features, modes, or hardware-layer designs.
+- No series. v0.1.1 closes the publication cycle for this concept.
+
 ## [Unreleased]
 
-Nothing. This is a single-shot artifact. There is no `[Unreleased]` section because nothing is unreleased.
+Nothing. This is a single-shot artifact. There is no `[Unreleased]` section beyond the v0.1.1 bilingualization note above.
 
 [0.1.0]: https://github.com/dlxeva/offside-fence/releases/tag/v0.1.0
+[0.1.1]: https://github.com/dlxeva/offside-fence/releases/tag/v0.1.1
