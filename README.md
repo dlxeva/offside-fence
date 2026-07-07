@@ -3,9 +3,11 @@
 > **Let every run happen where it should.**
 
 [![Concept Status](https://img.shields.io/badge/Status-Concept%20Demonstrator-0a84ff)](#status)
-[![Not a Product](https://img.shields.io/badge/Not%20a%20Product-grey)](#ethics)
+[![Not a Product](https://img.shields.io/badge/Not%20a%20Product-grey)](#what-this-is-not)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](LICENSE)
 [![Built on Roboflow Sports](https://img.shields.io/badge/Built%20on-Roboflow%20Sports-111)](#acknowledgements)
+[![Watch Film](https://img.shields.io/badge/Watch-Launch%20Film-red)](https://youtu.be/-er8fEfO5Vs)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-OffsideFence-da552f)](https://www.producthunt.com/products/offsidefence?launch=offsidefence)
 
 <p align="center">
   <img src="docs/assets/offsidefence-cover.png" alt="OffsideFence™ — Concept Demonstrator" width="100%">
@@ -15,11 +17,34 @@
 
 [![Watch the OffsideFence launch film](https://img.youtube.com/vi/-er8fEfO5Vs/maxresdefault.jpg)](https://youtu.be/-er8fEfO5Vs)
 
-[Watch on YouTube](https://youtu.be/-er8fEfO5Vs)
+**58-second speculative product launch:** [Watch on YouTube](https://youtu.be/-er8fEfO5Vs)
+
+## Launch routes
+
+| Surface | Link | Role |
+|---|---|---|
+| Product Hunt | [OffsideFence on Product Hunt](https://www.producthunt.com/products/offsidefence?launch=offsidefence) | Productized launch surface |
+| YouTube | [Launch film](https://youtu.be/-er8fEfO5Vs) | Main video artifact |
+| Launch index | [`docs/launch-links.md`](docs/launch-links.md) | External surface tracker |
+| Press kit | [`docs/press-kit.md`](docs/press-kit.md) | Short descriptions and reference copy |
+| Fiction boundary | [`docs/why-this-is-fiction.md`](docs/why-this-is-fiction.md) | Start here if the project looks too real |
+
+---
 
 **OffsideFence** is a concept demonstrator for a forward-facing wearable that uses real-time computer vision to detect offside positions on the pitch and delivers **Haptic Tactical Correction** (民间说法: "电一下") the instant a forward strays beyond the last defender.
 
 This repository is a **concept artifact**, not a product, not a startup, not a fork of any commercial system. It exists as part of a single-shot content project to explore the boundary between "what computer vision can already do for football" and "what we should or shouldn't strap to a player's body."
+
+## Read paths
+
+| If you are here for... | Start with |
+|---|---|
+| The joke | [Launch film](https://youtu.be/-er8fEfO5Vs) |
+| The technical shape | [`docs/architecture.md`](docs/architecture.md) |
+| The operating modes | [`docs/mode-specs.md`](docs/mode-specs.md) |
+| The protocol fiction | [`spec/ofp-protocol.md`](spec/ofp-protocol.md) |
+| The ethical boundary | [`docs/ethics.md`](docs/ethics.md) |
+| The reality check | [`docs/why-this-is-fiction.md`](docs/why-this-is-fiction.md) |
 
 ---
 
@@ -121,6 +146,7 @@ This repository was published on **2026-06-15** as a single-shot concept artifac
 
 | Component | State |
 |-----------|-------|
+| Launch film | ✅ Final — [YouTube](https://youtu.be/-er8fEfO5Vs) |
 | Concept specification | ✅ Final |
 | Architecture diagram | ✅ Final |
 | Operating modes | ✅ Final (4 of 4) |
