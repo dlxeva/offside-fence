@@ -15,9 +15,9 @@
 
 ## Launch film
 
-[![Watch the OffsideFence launch film](https://img.youtube.com/vi/-er8fEfO5Vs/maxresdefault.jpg)](https://youtu.be/-er8fEfO5Vs)
-
 **58-second speculative product launch:** [Watch on YouTube](https://youtu.be/-er8fEfO5Vs)
+
+> A fictional product launch designed to make football and sports-tech audiences ask: *"Wait, is this actually a thing?"*
 
 ## Launch routes
 
