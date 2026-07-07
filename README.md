@@ -11,6 +11,12 @@
   <img src="docs/assets/offsidefence-cover.png" alt="OffsideFence™ — Concept Demonstrator" width="100%">
 </p>
 
+## Launch film
+
+[![Watch the OffsideFence launch film](https://img.youtube.com/vi/-er8fEfO5Vs/maxresdefault.jpg)](https://youtu.be/-er8fEfO5Vs)
+
+[Watch on YouTube](https://youtu.be/-er8fEfO5Vs)
+
 **OffsideFence** is a concept demonstrator for a forward-facing wearable that uses real-time computer vision to detect offside positions on the pitch and delivers **Haptic Tactical Correction** (民间说法: "电一下") the instant a forward strays beyond the last defender.
 
 This repository is a **concept artifact**, not a product, not a startup, not a fork of any commercial system. It exists as part of a single-shot content project to explore the boundary between "what computer vision can already do for football" and "what we should or shouldn't strap to a player's body."
