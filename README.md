@@ -2,6 +2,8 @@
 
 > **Let every run happen where it should.**
 
+> Making-of: [Building a product that will never ship](https://aizhiz.com/posts/offside-fence/) · 制作记录：[认真做一个永远不会发售的产品](https://aizhiz.com/zh/posts/offside-fence/) · Exhibit page: [aizhiz.com/offsidefence](https://aizhiz.com/offsidefence/)
+
 [![Concept Status](https://img.shields.io/badge/Status-Concept%20Demonstrator-0a84ff)](#status)
 [![Not a Product](https://img.shields.io/badge/Not%20a%20Product-grey)](#what-this-is-not)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](LICENSE)
